@@ -8,4 +8,4 @@ app.get('/', (req, res) => {
 app.get('/status', (req, res) => {
  res.status(200).json({ status: 'API funcionando correctamente' });
 });
-module.exports = app
+module.exports = app;
