@@ -43,7 +43,7 @@ jobs:
 
       - name: Deploy to AWS Lambda
         env:
-          AWS_ACCESS_KEY_ID: ASIAYS2NTDS2BLUWOS2T
+          AWS_ACCESS_KEY_ID: AKIAYS2NTDS2FDJLIG5T
           AWS_SECRET_ACCESS_KEY: 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
           AWS_REGION: us-east-1
         run: |
